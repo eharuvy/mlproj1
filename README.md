@@ -1,1 +1,1 @@
-## Trying an End2End ML Project Tutorial
+## Regressing standardized test scores on Gender, Ethnicity, Parent Income, among other factors
